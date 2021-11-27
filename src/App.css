@@ -1,0 +1,16 @@
+.pet_list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pet{
+    padding: 20px;
+    margin: 10px;
+    border: 5px black dotted;
+    border-radius: 20px;
+    line-height: 2px;
+    background-color: pink;
+    width: 150px;
+    height: 200px;
+}
